@@ -1,0 +1,4 @@
+C:\Users\chad\Documents\git\DZFLUX\samples\MvcApp\bin\Debug\net6.0\plugins\PluginHRServices\PluginHRServices.dll
+C:\Users\chad\Documents\git\DZFLUX\samples\MvcApp\bin\Debug\net6.0\plugins\PluginHRServices\PluginHRServices.deps.json
+C:\Users\chad\Documents\git\DZFLUX\samples\MvcApp\bin\Debug\net6.0\plugins\PluginHRServices\PluginHRServices.pdb
+C:\Users\chad\Documents\git\DZFLUX\samples\MvcApp\bin\Debug\net6.0\plugins\PluginHRServices\FluxBlocks.Plugin.dll

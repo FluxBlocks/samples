@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PluginTime/1.0.0": {
+        "dependencies": {
+          "FluxBlocks.Plugin": "1.0.0"
+        },
+        "runtime": {
+          "PluginTime.dll": {}
+        }
+      },
+      "FluxBlocks.Plugin/1.0.0": {
+        "runtime": {
+          "lib/net6.0/FluxBlocks.Plugin.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PluginTime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluxBlocks.Plugin/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mlKmrjawvNPGOKuhskceeJy5XsCALCM0nNIC25j2Vu9L0CFCZc0frkRN06HqJrcU5FZ0Ul6uQNCiDlrDGjNtZg==",
+      "path": "fluxblocks.plugin/1.0.0",
+      "hashPath": "fluxblocks.plugin.1.0.0.nupkg.sha512"
+    }
+  }
+}

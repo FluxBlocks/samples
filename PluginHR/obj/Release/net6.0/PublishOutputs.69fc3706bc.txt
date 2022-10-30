@@ -1,0 +1,6 @@
+C:\Users\chad\Documents\git\DZFLUX\ZZZ\aspnetcore-mvc\MvcApp\bin\Debug\net6.0\plugins\PluginHR\PluginHR.dll
+C:\Users\chad\Documents\git\DZFLUX\ZZZ\aspnetcore-mvc\MvcApp\bin\Debug\net6.0\plugins\PluginHR\PluginHR.deps.json
+C:\Users\chad\Documents\git\DZFLUX\ZZZ\aspnetcore-mvc\MvcApp\bin\Debug\net6.0\plugins\PluginHR\PluginHR.pdb
+C:\Users\chad\Documents\git\DZFLUX\ZZZ\aspnetcore-mvc\MvcApp\bin\Debug\net6.0\plugins\PluginHR\FluxBlocks.Plugin.dll
+C:\Users\chad\Documents\git\DZFLUX\ZZZ\aspnetcore-mvc\MvcApp\bin\Debug\net6.0\plugins\PluginHR\PluginHRServices.dll
+C:\Users\chad\Documents\git\DZFLUX\ZZZ\aspnetcore-mvc\MvcApp\bin\Debug\net6.0\plugins\PluginHR\PluginHRServices.pdb

@@ -1,0 +1,4 @@
+C:\Users\chad\Documents\git\DZFLUX\ZZZ\aspnetcore-mvc\MvcApp\bin\Debug\net6.0\plugins\PluginTime\PluginTime.dll
+C:\Users\chad\Documents\git\DZFLUX\ZZZ\aspnetcore-mvc\MvcApp\bin\Debug\net6.0\plugins\PluginTime\PluginTime.deps.json
+C:\Users\chad\Documents\git\DZFLUX\ZZZ\aspnetcore-mvc\MvcApp\bin\Debug\net6.0\plugins\PluginTime\PluginTime.pdb
+C:\Users\chad\Documents\git\DZFLUX\ZZZ\aspnetcore-mvc\MvcApp\bin\Debug\net6.0\plugins\PluginTime\FluxBlocks.Plugin.dll

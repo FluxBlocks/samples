@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/8xXfmRykt1sSY8xfZosee0JVYzQsf1Y5KHWSz2Rg5VG2VbuhFiJ1/uzUnJIWacFrBDBGDt2KZiCy5yL6ZosmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chad\\Documents\\git\\DZFLUX\\samples\\MvcApp\\MvcApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chad\\.nuget\\packages\\fluxblocks.plugin\\1.0.0\\fluxblocks.plugin.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

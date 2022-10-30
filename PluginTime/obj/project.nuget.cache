@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KCCIVK+H3qurhVVP6jyBZe85cKtmGD592c4CfD4pfE0YL0cy6x0SJCChh3PpA2OLGEtJA2Qr0DcTYCHD4R1gdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chad\\Documents\\git\\DZFLUX\\samples\\PluginTime\\PluginTime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chad\\.nuget\\packages\\fluxblocks.plugin\\1.0.0\\fluxblocks.plugin.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FluxBlocks.Plugin</name>
+    </assembly>
+    <members>
+        <member name="M:FluxBlocks.Plugin.Bootstrapper.AddPlugins(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Scans plugins directory
+            </summary>
+            <param name="services"></param>
+            <exception cref="T:System.Exception"></exception>
+        </member>
+    </members>
+</doc>
