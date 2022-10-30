@@ -1,7 +1,7 @@
 # samples
 
 ## Overview
-This sample illuistrates how to use FluxBlocks Plugins to seperate UI and logic code. FluxBlocks aims to be a simple solution to help with seperations of concerns. This project shows a method to link plugins together with project references to enable regular Visual Studio compiling and debugging at run time the framework will scan the plugins directory and dynamically add in the puglins. This is wired up in the project file as MSBuild commands.
+This sample illuistrates how to use FluxBlocks Plugins to seperate UI and logic code. FluxBlocks aims to be a simple solution to help with seperations of concerns. This project shows a method to link plugins together with project references to enable regular Visual Studio compiling and debugging, at run time the framework will scan the plugins directory and dynamically add in the plugins. This is wired up in the project file as MSBuild commands.
 
 ## Getting Started
 1. Edit the project file for MvcApp and update PluginPubDir to point to where the code is checked out on your machine.
