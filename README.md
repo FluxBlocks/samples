@@ -8,12 +8,12 @@ This sample illuistrates how to use FluxBlocks Plugins to seperate UI and logic 
 
 2. Now you are ready build and execute the project.
 
-3. FluxBlocks is an opinionated framework with some required conventions.
-  * The framework will scan a folder in the executing path of the host application. This folder can only can IUiPlugin and ILogicPlugin plugins.
-  * Plugins must be contained in their own sub folder in the plugins root folder and name as the assemblyName. Example from the samples - PluginTime.
+3. FluxBlocks is an opinionated framework with some required conventions:
+  * The framework will scan for a plugin root folder in the executing path of the host application. This folder can only contain IUiPlugin and ILogicPlugin plugins.
+  * Plugins must be contained in their own sub folder in the plugins root folder and named as the assemblyName. Example from the samples - PluginTime.
   * The Plugin class name must be the assemblyName. Example from the samples - PluginTime.PluginTime.
   * Plugins are required to be either IUiPlugin or ILogicPlugin - inheriting both will result in errors.
-  * Including in other sub folders inside of the plugin root folder will result in errors.
+  * Including other sub folders inside of the plugin root folder will result in errors.
   * Below is PluginHRServices as an example of how to implement a plugin. Notice the Configure function takes in an IServiceCollection and you register your services the same as you would in Startup.ConfigureServices - FluxBlocks will register these when it loads your plugin.
 
 4. FluxBlocks is in Beta - Open GitHub Issues and we will respond back within a few days.
